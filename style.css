@@ -1,0 +1,105 @@
+body {
+  background-color : tan;
+  display: flexbox;
+  
+}
+.completo{
+  flex: 1;
+  margin-left: 20px;
+}
+.title {
+  background-color : red;
+  text-align: center;
+  border: 5px groove blue;
+  border-radius: 10px;
+  position: sticky;
+  top: 2px;
+  left: 1px;
+}
+th{
+  background-color: chocolate; 
+}
+td,th {
+  border: 2px solid mediumseagreen ;
+  color: white;
+}
+.explicaciones {
+  font-size: 24px;
+  color:white;
+  
+}
+.tabla {
+  border-collapse: collapse;
+  margin:0 auto;
+  box-shadow: 2px 5px white;
+  
+}
+.elementos {
+  list-style-type: upper-alpha;
+}
+
+.explicacion_ps5, .Nintendo, .pringles {
+  margin-bottom: 80px;
+}
+.pringles {
+  height: auto
+}
+.enlace {
+  font-size: 24px;
+  width: 70px;
+  height: 30px;
+  background-color : greenyellow;
+  margin:0 auto;
+  float: right;
+}
+.retorno:hover {
+  color: blue;
+  background-color : red;
+}
+.enlaceps5, .enlaceswitch, .enlacepringles{
+  color: white;
+  margin-bottom: 200px;
+}
+#boton {
+  background-color :green;
+  font-size: 24px;
+}
+footer {
+  background-color : tomato;
+  bottom: 0;
+  height: auto;
+  padding: 3rem;
+}
+.retorno {
+  float: right;
+  margin: 0;
+  text-decoration: none;
+}
+.retorno, .copyright {
+  font-size: 24px;
+}
+.lorem {
+  width: 500px;
+  height: auto;
+}
+#image1, #image2 {
+  float: right;
+  margin-right: 60px;
+}
+.container1 {
+  display: inline;
+}
+#image2 {
+  margin: 48px 0px px 0px;
+}
+#image3 {
+  float: right;
+  margin-right: 60px;
+}
+#tab {
+  display: hidden;
+}
+.contacto {
+margin-left: 170px;
+  text-decoration: none;
+}
