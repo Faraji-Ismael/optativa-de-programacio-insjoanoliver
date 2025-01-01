@@ -1,4 +1,4 @@
 document.getElementById('botonps5').addEventListener('click', mostr);
 function mostr() {
-   window.location.href='disney.html' ;
+   window.location.href='index.html' ;
 }
