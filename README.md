@@ -1,2 +1,2 @@
-# primera-pagina
+# consola-favorita
 Mi consola favorita
