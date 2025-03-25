@@ -83,7 +83,7 @@ footer {
   height: auto;
 }
 #image1, #image2 {
-  float: right;
+  float: none;
   margin-right: 60px;
 }
 .container1 {
@@ -93,7 +93,7 @@ footer {
   margin: 48px 0px px 0px;
 }
 #image3 {
-  float: right;
+  float: none;
   margin-right: 60px;
 }
 #tab {
