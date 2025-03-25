@@ -63,6 +63,7 @@ td,th {
 #boton {
   background-color :green;
   font-size: 24px;
+  margin-bottom: 20px ;
 }
 footer {
   background-color : tomato;
