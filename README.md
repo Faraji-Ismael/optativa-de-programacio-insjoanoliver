@@ -1,2 +1,1 @@
-# consola-favorita
-Mi consola favorita
+Programació A l'Institut Joan Oliver
